@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+
+
+html {
+    background-color: black;
+}
+
+.link-header {
+    size: 10px;
+    text-decoration: none;
+    border: 2px;
+    border-style: double;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.link-header:hover {
+    background-color: gainsboro;
+    transition: background-color 0.5s linear;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.social {
+    border: 5px;
+    border-radius: 15px;
+}
+
+.car {
+    padding-left: 20px;
+}
+
+.link-nav {
+    padding-left: 5px;
+    text-decoration: none;
+    font-style: italic;
+    display: inline-block;
+    color: black
+
+}
+
+header {
+    background-color: greenyellow
+}
+
+main {
+    background-color: lightseagreen;
+    padding-left: 15px;
+    font-style: oblique;
+}
+
+footer {
+    background-color: green;
+}
